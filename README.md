@@ -170,4 +170,4 @@ O objetivo é destacar:
 3. **Escolhas Explícitas em Kotlin:**
    - A criação de arrays que aceitam `null` é intencional (`arrayOfNulls`), enquanto em Java é implícito para arrays de objetos.
 
-Kotlin oferece maior segurança e controle sobre referências nulas, reduzindo erros e tornando o código mais robusto e fácil de manter. Se precisar de mais detalhes ou explicações, estou aqui! 😊
+Kotlin oferece maior segurança e controle sobre referências nulas, reduzindo erros e tornando o código mais robusto e fácil de manter.
